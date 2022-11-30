@@ -1,5 +1,5 @@
-1. [Install Docker] (https://docs.docker.com/compose/install/)
-2. Download Thingworx [Docker files] (https://support.ptc.com/appserver/auth/it/esd/product.jsp?prodFamily=TWX)
+1. [Install Docker](https://docs.docker.com/compose/install/)
+2. Download Thingworx [Docker files](https://support.ptc.com/appserver/auth/it/esd/product.jsp?prodFamily=TWX)
 ![image](https://user-images.githubusercontent.com/22999436/204716886-d3ec9e0d-5623-4746-ab6d-cf188c385efd.png)
 
 3. Download [Java](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html) and put it into staging folder
