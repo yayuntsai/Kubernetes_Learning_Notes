@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/22999436/204716976-30630c83-e39e-4872-b208-8b8bc306776d.png)
 
 4. Modify build.env with the downloaded Java version/PLATFORM_VERSION
+![image](https://user-images.githubusercontent.com/22999436/205849163-809aa72c-66b6-4a0e-9758-6ce31978f0df.png)
 
 5. ```$./build.sh```
 
